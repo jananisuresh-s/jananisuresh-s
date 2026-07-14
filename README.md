@@ -153,7 +153,7 @@ class Janani:
 | Project | Stack | Highlights |
 |---|---|---|
 | [🧠 Brain Tumor Detection](https://github.com/jananisuresh-s/brain_tumor_detection) | Python, OpenCV, Image Processing | End-to-end MRI pipeline: preprocessing → skull stripping → segmentation → rule-based classification |
-| [🌐 Personal Portfolio Website](https://jananisuresh-s.github.io/portfolio-website) | HTML, CSS, GitHub Pages | Responsive portfolio with clean UI/UX, cross-device compatibility, live on GitHub Pages |
+| [🌐 Personal Portfolio Website](https://jananisuresh-s.github.io/professional_portfolio/) | HTML, CSS, GitHub Pages | Responsive portfolio with clean UI/UX, cross-device compatibility, live on GitHub Pages |
 | 🏠 Smart Rooftop System | ESP32, Embedded C, Bluetooth, Sensors | Automated roof panel with rain/temperature sensors, motor control, and Bluetooth voice control |
 
 </div>
@@ -191,13 +191,11 @@ class Janani:
 
 ## 📚 Currently Learning
 
-```
 🤖 Machine Learning      →  Deep Learning, Neural Networks, Model Deployment
 📊 Data Science          →  Pandas, NumPy, Data Visualization, EDA
 🌐 Web Development       →  JavaScript, Responsive Design, Frameworks
 🔐 Cryptography          →  Network Security, Blockchain Fundamentals
 ☁️ Cloud & DevOps        →  Version Control, CI/CD basics, Cloud platforms
-```
 
 ---
 
