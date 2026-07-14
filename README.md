@@ -182,8 +182,8 @@ class Janani:
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.E. — Electronics & Communication Engineering | Jai Shriram Engineering College | 2022 – 2026 | — |
-| HSC | AKT Academy, Kallakurichi | 2021 – 2022 | — |
+| B.E. — Electronics & Communication Engineering | Jai Shriram Engineering College | 2022 – 2026 | 7.88 |
+| HSC | AKT Academy, Kallakurichi | 2021 – 2022 | 70.66% |
 
 </div>
 
